@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url('/img/Sena.png');
+    background-size: cover;
+    font-family: 'Cinzel', serif;
+}
+  
+nav{
+    background-color: green;
+}
+  
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+  
+li{
+    float: left;
+}
+
+li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 1.5em;
+}
+
+li a:hover{
+    background-color: #034d18;
+}
