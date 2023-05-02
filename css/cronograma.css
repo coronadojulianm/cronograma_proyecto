@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+
+body{
+    font-family: 'Caveat', cursive;
+    font-size: 1.5em;
+}
+table{
+    border: 1px solid rgb(64,64,64.8);
+    border-collapse: collapse;
+    width: 60em;
+    margin-left: 200px;
+
+
+}
+th, td {
+    border: 1px solid rgb(64,64,64.8);
+    text-align: left;
+    text-align: center;
+}
+th {
+    background-color: rgb(233, 99, 99);
+}
+td{
+    background-color: rgb(203, 255, 210);
+}
+h1 {
+    text-align: center;
+    box-shadow: rgba(255, 0, 0, 0.2) 0px 7px 29px 0px;
+    color: rgb(0, 117, 0);
+    
+}
+div{
+    text-align: center;
+  
+}
